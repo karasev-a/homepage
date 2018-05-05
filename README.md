@@ -1,2 +1,2 @@
-# homepage
-My very own personal website. Basically this is just a résumé.
+# HOMEPAGE
+**My very own personal website.** :computer:  _Basically this is just a résumé._ :clipboard:
