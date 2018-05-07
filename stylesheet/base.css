@@ -1,0 +1,12 @@
+
+.fab, .fas, .far{
+    font-size: 20px;
+    color: darkorange;
+}
+.point{
+     border-left: 3px solid darkorange;
+}  
+.indent{
+    padding-left: 30px; 
+}
+
